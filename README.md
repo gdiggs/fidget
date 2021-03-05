@@ -2,6 +2,8 @@
 
 Something to fidget with in meetings. Built on p5.js
 
+To run locally, either open `index.html` or use the supplied container with `docker-compose up`.
+
 ## License
 
 Copyright (c) 2021 Gordon Diggs
