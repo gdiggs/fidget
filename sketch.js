@@ -17,7 +17,7 @@ function draw() {
   drawTrail();
 }
 
-function mouseClicked() {
+function touchEnded() {
   shapes.push({
     id: lastID,
     x: mouseX,
